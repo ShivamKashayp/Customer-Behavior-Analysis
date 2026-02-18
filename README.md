@@ -2,7 +2,7 @@
 Data Analysis project showcasing Customer Behavior Analysis using Python, SQl and Power BI.
 
 
-1. Overview
+<h1>1. Overview</h1>
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to business insights visualization. The objective was to clean, analyze, and transform the dataset into actionable insights using Python, SQL, and Power BI.
 
@@ -26,7 +26,7 @@ This project reflects real-world analytics practices used in data-driven organiz
 
 
 
-2. Dataset
+<h1>2. Dataset</h1>
 
 Type: Structured dataset (CSV format)
 
@@ -47,26 +47,27 @@ Date/time fields for trend analysis
 
 
 
-3. Tools & Technologies
+<h1>3. Tools & Technologies</h1>
 Tool	Purpose
-Python (Pandas, NumPy, Matplotlib, Seaborn)	Data cleaning & EDA
-Vs Code	Analysis environment
-PostgreSQL / MySQL / SQL Server	SQL-based querying
-Power BI	Dashboard & visualization
-Gamma	Presentation (PPT) creation
-Git & GitHub	Version control
+<br>
+Python: (Pandas, NumPy, Matplotlib, Seaborn)	Data cleaning & EDA<br>
+Vs Code: Analysis environment<br>
+PostgreSQL:	SQL-based querying<br>
+Power BI:	Dashboard & visualization<br>
+Gamma	Presentation: PPT creation<br>
+Git & GitHub:	Version control<br>
 
 
 
 
-4. Project Steps
+<h1>5. Project Steps</h1><br>
 Step 1: Data Loading
 
 Imported dataset using Pandas
 
-Checked data types, structure, and summary statistics
+Checked data types, structure, and summary statistics<br>
 
-Step 2: Exploratory Data Analysis (EDA)
+<h2>Step 2: Exploratory Data Analysis (EDA)</h2>
 
 Identified missing values and outliers
 
@@ -74,9 +75,9 @@ Analyzed distributions of key variables
 
 Created visualizations for trends and patterns
 
-Performed correlation analysis
+Performed correlation analysis<br>
 
-Step 3: Data Cleaning
+<h2>Step 3: Data Cleaning</h2>
 
 Handled missing values
 
@@ -86,9 +87,9 @@ Standardized categorical values
 
 Converted data types where required
 
-Created new derived features for better insights
+Created new derived features for better insights<br>
 
-Step 4: SQL Analysis
+<h2>Step 4: SQL Analysis</h2>
 
 Loaded cleaned data into PostgreSQL/MySQL/SQL Server
 
@@ -102,9 +103,9 @@ Filtering & sorting
 
 Joins (if multiple tables)
 
-Subqueries and window functions (if applicable)
+Subqueries and window functions (if applicable)<br>
 
-Step 5: Power BI Dashboard
+<h2>Step 5: Power BI Dashboard</h2>
 
 Connected Power BI to SQL database
 
@@ -112,20 +113,20 @@ Created interactive visualizations
 
 Designed KPI cards, charts, filters, and slicers
 
-Built a user-friendly dashboard for stakeholders
+Built a user-friendly dashboard for stakeholders<br>
 
-Step 6: Reporting & Presentation
+<h2>Step 6: Reporting & Presentation</h2>
 
 Documented findings in a structured report
 
 Highlighted business insights and recommendations
 
-Created a professional PPT using Gamma
+Created a professional PPT using Gamma<br>
 
 
 
 
-5. Dashboard Highlights
+<h1>5. Dashboard Highlights</h1>
 
 The Power BI dashboard includes:
 
@@ -139,13 +140,13 @@ The Power BI dashboard includes:
 
 🎛 Interactive filters for dynamic exploration
 
-The dashboard is designed for decision-makers to quickly understand performance metrics and trends.
+The dashboard is designed for decision-makers to quickly understand performance metrics and trends.<br>
 
 
 
 
 
-6. Results & Insights
+<h1>6. Results & Insights</h1>
 
 Key outcomes from the analysis:
 
