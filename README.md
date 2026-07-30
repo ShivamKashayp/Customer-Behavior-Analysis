@@ -6,7 +6,7 @@ Data Analysis project showcasing Customer Behavior Analysis using Python, SQl an
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to business insights visualization. The objective was to clean, analyze, and transform the dataset into actionable insights using Python, SQL, and Power BI.
 
-The project covers:
+The project covers: 
 
 Data loading and preprocessing in Python
 
